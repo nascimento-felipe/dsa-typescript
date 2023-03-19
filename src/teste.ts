@@ -1,2 +1,6 @@
+const pessoa = {
+  nome: "Carlos",
+  idade: 15,
+};
 
-console.log("Funcionante"); 
+const { nome } = pessoa;
